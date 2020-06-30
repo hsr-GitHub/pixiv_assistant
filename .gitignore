@@ -113,3 +113,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+*.cookie
+tmp/
+temp/
+index/
+data/
+file/
+artworks/
+illusts/
+manga/
+novels/
