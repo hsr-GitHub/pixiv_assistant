@@ -115,6 +115,7 @@ dmypy.json
 .pyre/
 
 # Other
+pixiv_assistant.code-workspace
 *.cookie
 tmp/
 temp/
